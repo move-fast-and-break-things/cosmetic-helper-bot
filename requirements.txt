@@ -2,6 +2,6 @@ fastai==2.7.10
 fastcore==1.5.27
 pyTelegramBotAPI==4.10.0
 torch==1.13.1
-fatbook==0.0.29
+fastbook==0.0.29
 pathlib==1.0.1
 pathy==0.10.1
