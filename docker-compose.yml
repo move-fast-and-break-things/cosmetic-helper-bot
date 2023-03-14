@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  bot:
+    container_name: cosmetic-helper-bot
+    build: .
+    environment:
+      - TOKEN=${TOKEN}
+    restart: unless-stopped
